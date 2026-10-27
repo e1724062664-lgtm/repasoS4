@@ -29,7 +29,7 @@
             
         </Grid>
 
-        <Grid RowSpacing="15" ColumnSpacing="10">
+        <Grid RowSpacing="15" ColumnSpacing="11">
             <Grid.RowDefinitions>
                 <RowDefinition/>
                 <RowDefinition/>
